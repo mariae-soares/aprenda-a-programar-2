@@ -1,0 +1,23 @@
+h1 {
+	color: black;
+	font-family: garamond;
+	text-align: left;
+	font-size: 50px;
+}
+
+body {
+	font-family: "Verdana";
+	color: black;
+	text-align: left;
+	background-color: #f5a4cf;
+}
+
+#paragrafo1 {
+	color: red;
+	text-align: center;
+}
+
+#paragrafo2 {
+	color: green;
+	text-align: center;
+}
